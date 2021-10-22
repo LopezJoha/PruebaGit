@@ -5,7 +5,7 @@ body{
     color: aquamarine;
 }
 
-.contenedor{
+#contenedor{
     width: 45%;
     border: black 3px solid;
     display: flex;
