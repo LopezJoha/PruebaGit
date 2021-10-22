@@ -1,6 +1,18 @@
 body{
-    background-color: black;
-    text-align: center;
+    background-color:rgb(245, 229, 231);
+    
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: aquamarine;
+}
+
+.contenedor{
+    width: 45%;
+    border: black 3px solid;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 1em;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(209, 116, 240);
 }
