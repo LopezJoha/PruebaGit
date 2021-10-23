@@ -1,7 +1,7 @@
 body{
     background-color:rgb(245, 229, 231);
     
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     color: aquamarine;
 }
 
@@ -15,4 +15,5 @@ body{
     justify-content: center;
     align-items: center;
     background-color: rgb(209, 116, 240);
+    font-size: 25px;
 }
